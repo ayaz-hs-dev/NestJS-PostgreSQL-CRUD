@@ -53,7 +53,7 @@ src/
 ### 1. Clone repo
 
 ```sh
-git clone https://github.com/ayaz-hs-dev/NestJS-PostgreSQL-CRUD
+git clone https://github.com/ayaz-hs-dev/NestJS-PostgreSQL-CRUD.git
 cd NestJS-PostgreSQL-CRUD
 ```
 
