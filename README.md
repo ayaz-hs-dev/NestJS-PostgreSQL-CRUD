@@ -109,7 +109,9 @@ npm run start:dev
   ```json
   { "title": "Finish NestJS practice" }
   ```
-* **GET /tasks/user/:userId** → Get all tasks of a user
+* **GET /tasks/:userId** → Get all tasks of a user
+* **PATCH /tasks/:id** → Update task
+* **DELETE /tasks/:id** → Delete user
 
 ---
 
