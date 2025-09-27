@@ -40,9 +40,9 @@ src/
  │   └── dto/create-user.dto.ts
  │   └── dto/update-user.dto.ts
  └── task/
-     ├── task.controller.ts
-     └── task.service.ts
-     └── task.module.ts
+ │   ├── task.controller.ts
+ │   ├── task.service.ts
+ │   ├── task.module.ts
  │   └── dto/create-task.dto.ts
  │   └── dto/update-task.dto.ts
 ```
