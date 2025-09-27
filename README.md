@@ -126,4 +126,4 @@ npm run start:dev
 
 ## 📜 License
 
-Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+[MIT licensed](https://github.com/ayaz-hs-dev/NestJS-PostgreSQL-CRUD/blob/main/LICENSE)Free to use and modify.
