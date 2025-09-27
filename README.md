@@ -1,4 +1,3 @@
-Got it 👍 Let’s make a clean **README.md** for your NestJS + Prisma + PostgreSQL project with Users & Tasks. You can copy this into your repo directly.
 
 ---
 
